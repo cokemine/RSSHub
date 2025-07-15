@@ -81,7 +81,7 @@
         "dotenv": "16.4.7",
         "entities": "6.0.0",
         "etag": "1.8.1",
-        "fanfou-sdk": "5.0.0",
+        "fanfou-sdk": "6.0.0",
         "form-data": "4.0.2",
         "googleapis": "148.0.0",
         "hono": "4.7.5",
